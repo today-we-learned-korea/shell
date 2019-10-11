@@ -24,3 +24,7 @@ touch sed-awk-pipeline_channprj.md
 ```
 
 이런 식으로 구분합니다.
+
+## 🔗️ 참고 링크
+- [Bash shell script 가이드](https://mug896.gitbooks.io/shell-script/content/)
+- [shellscript.sh](https://www.shellscript.sh/)
